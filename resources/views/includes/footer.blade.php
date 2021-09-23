@@ -1,6 +1,5 @@
-
 <footer>
-	© {{ __('misc.copyright') }}
+	© {{ __('misc.copyright') }} <br> <a href="about">About</a> / <a href="contact">Contact</a> / <a href="https://facebook.com" class="fa fa-facebook"></a> <a href="https://instagram.com" class="fa fa-instagram"></a> <a href="https://linkedin.com" class="fa fa-linkedin"></a>
 </footer>
 
 

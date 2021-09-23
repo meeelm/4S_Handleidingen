@@ -5,6 +5,7 @@
 <meta name="keywords" content="userguide, user's guide, guide, manual, manual, owners manual, referenceguide, quickguide, service manual, free, pdf, download"/>
 <meta name="language" content="en">
 <meta name="google-site-verification" content="Fdb3h6i9VSbRysXMwdteA4E2tZnedlygCcIyJBADqKo" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <link href="{{ asset('/css/app.css') }}" rel="stylesheet">
 

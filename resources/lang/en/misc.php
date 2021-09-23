@@ -22,5 +22,9 @@ return [
 'view_manual' => "Directly view your manual",
 'view_manual_alt' => "Directly view your manual",
 'all_brands' => "All brands",
-
+'name' => "First Name",
+'lastname' => "Lastname",
+'subject' => "Subject",
+'submit' => "Submit",
+'contact' => "Contact",
 ];
